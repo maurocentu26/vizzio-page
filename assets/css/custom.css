@@ -1,0 +1,39 @@
+/*
+Custom Css
+*/
+
+/* Header settings */
+.navbar {
+    background-color: #000;
+}
+
+.navbar .logo {
+    width: 4rem;
+}
+
+.nav .nav-item .nav-link,
+.nav-icon i {
+    color: #fff !important;
+}
+/* End Header settings */
+/* Hero settings */
+.img-hero img{
+    height: 80%;
+    justify-self: center;
+}
+.img-hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
+
+footer .logo {
+    color: #fff !important;
+}
